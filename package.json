@@ -1,0 +1,26 @@
+{
+  "name": "auth3-project",
+  "version": "1.0.0",
+  "description": "Authentication using JSON Web Tokens (JWTs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewbastian/node-auth3-project.git"
+  },
+  "keywords": [
+    "Authentication",
+    "JSON",
+    "Web",
+    "Tokens",
+    "JWTS"
+  ],
+  "author": "andrew-bastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewbastian/node-auth3-project/issues"
+  },
+  "homepage": "https://github.com/andrewbastian/node-auth3-project#readme"
+}
